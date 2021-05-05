@@ -253,7 +253,8 @@ Show # $type->rare->crusader $tier->t11
 	HasInfluence Crusader
 	ItemLevel >= 82
 	Rarity <= Rare
-	BaseType "Anarchic Spiritblade" "Apothecary's Gloves" "Banishing Blade" "Battery Staff" "Blasting Blade" "Blue Pearl Amulet" "Boom Mace" "Capricious Spiritblade" "Cerulean Ring" "Cogwork Ring" "Crystal Belt" "Disapprobation Axe" "Eventuality Rod" "Flashfire Blade" "Hedron Bow" "Honed Cleaver" "Infernal Blade" "Malign Fangs" "Opal Ring" "Potentiality Rod" "Psychotic Axe" "Reciprocation Staff" "Solarine Bow" "Stygian Vise" "Transformer Staff" "Vermillion Ring"
+	BaseType "Anarchic Spiritblade" "Apothecary's Gloves" "Banishing Blade" "Battery Staff" "Blasting Blade" "Blue Pearl Amulet" "Boom Mace" "Capricious Spiritblade" "Cerulean Ring" "Cogwork Ring" "Crystal Belt" "Disapprobation Axe" "Eventuality Rod" "Flashfire Blade" "Hedron Bow" "Honed Cleaver" "Infernal Blade" "Malign Fangs" "Opal Ring" "Potentiality Rod" "Psychotic Axe" "Reciprocation Staff" "Solarine Bow" "Stygian Vise" "Transformer Staff" "Vermillion Ring" "Ring" "Amulet"  "Boots" "Gloves" "Helmet"  "Sash" "Belt"
+
 	SetFontSize 45
 	SetTextColor 50 130 165 255
 	SetBorderColor 50 130 165 255
@@ -322,7 +323,8 @@ Show # $type->rare->warlord $tier->t11
 	HasInfluence Warlord
 	ItemLevel >= 82
 	Rarity <= Rare
-	BaseType "Anarchic Spiritblade" "Apex Cleaver" "Apothecary's Gloves" "Banishing Blade" "Battery Staff" "Boom Mace" "Capricious Spiritblade" "Crack Mace" "Disapprobation Axe" "Eventuality Rod" "Fickle Spiritblade" "Fingerless Silk Gloves" "Flare Mace" "Foundry Bow" "Hedron Bow" "Hollowpoint Dagger" "Honed Cleaver" "Infernal Blade" "Malign Fangs" "Maltreatment Axe" "Marble Amulet" "Opal Ring" "Pneumatic Dagger" "Potentiality Rod" "Pressurised Dagger" "Prime Cleaver" "Psychotic Axe" "Rebuking Blade" "Reciprocation Staff" "Solarine Bow" "Spiked Gloves" "Transformer Staff" "Vermillion Ring" "Void Fangs"
+	BaseType "Anarchic Spiritblade" "Apex Cleaver" "Apothecary's Gloves" "Banishing Blade" "Battery Staff" "Boom Mace" "Capricious Spiritblade" "Crack Mace" "Disapprobation Axe" "Eventuality Rod" "Fickle Spiritblade" "Fingerless Silk Gloves" "Flare Mace" "Foundry Bow" "Hedron Bow" "Hollowpoint Dagger" "Honed Cleaver" "Infernal Blade" "Malign Fangs" "Maltreatment Axe" "Marble Amulet" "Opal Ring" "Pneumatic Dagger" "Potentiality Rod" "Pressurised Dagger" "Prime Cleaver" "Psychotic Axe" "Rebuking Blade" "Reciprocation Staff" "Solarine Bow" "Spiked Gloves" "Transformer Staff" "Vermillion Ring" "Void Fangs" "Ring" "Amulet"  "Boots" "Gloves" "Helmet" "Sash" "Belt"
+
 	SetFontSize 45
 	SetTextColor 50 130 165 255
 	SetBorderColor 50 130 165 255
@@ -391,7 +393,8 @@ Show # $type->rare->redeemer $tier->t11
 	HasInfluence Redeemer
 	ItemLevel >= 82
 	Rarity <= Rare
-	BaseType "Alternating Sceptre" "Anarchic Spiritblade" "Apothecary's Gloves" "Boom Mace" "Capricious Spiritblade" "Cogwork Ring" "Crack Mace" "Disapprobation Axe" "Eventuality Rod" "Fickle Spiritblade" "Fingerless Silk Gloves" "Flashfire Blade" "Flickerflame Blade" "Geodesic Ring" "Gripped Gloves" "Hedron Bow" "Hollowpoint Dagger" "Infernal Blade" "Malign Fangs" "Opal Ring" "Oscillating Sceptre" "Pneumatic Dagger" "Potentiality Rod" "Pressurised Dagger" "Psychotic Axe" "Steel Ring" "Stygian Vise" "Transformer Staff" "Two-Toned Boots" "Vermillion Ring"
+	BaseType "Alternating Sceptre" "Anarchic Spiritblade" "Apothecary's Gloves" "Boom Mace" "Capricious Spiritblade" "Cogwork Ring" "Crack Mace" "Disapprobation Axe" "Eventuality Rod" "Fickle Spiritblade" "Fingerless Silk Gloves" "Flashfire Blade" "Flickerflame Blade" "Geodesic Ring" "Gripped Gloves" "Hedron Bow" "Hollowpoint Dagger" "Infernal Blade" "Malign Fangs" "Opal Ring" "Oscillating Sceptre" "Pneumatic Dagger" "Potentiality Rod" "Pressurised Dagger" "Psychotic Axe" "Steel Ring" "Stygian Vise" "Transformer Staff" "Two-Toned Boots" "Vermillion Ring"  "Ring" "Amulet"  "Boots" "Gloves" "Helmet"  "Sash" "Belt"
+
 	SetFontSize 45
 	SetTextColor 50 130 165 255
 	SetBorderColor 50 130 165 255
@@ -460,7 +463,7 @@ Show # $type->rare->hunter $tier->t11
 	HasInfluence Hunter
 	ItemLevel >= 82
 	Rarity <= Rare
-	BaseType "Anarchic Spiritblade" "Apex Cleaver" "Apothecary's Gloves" "Battery Staff" "Blessed Boots" "Blunt Force Condenser" "Boom Mace" "Capricious Spiritblade" "Cogwork Ring" "Crushing Force Magnifier" "Fickle Spiritblade" "Fingerless Silk Gloves" "Flashfire Blade" "Flickerflame Blade" "Foundry Bow" "Geodesic Ring" "Gripped Gloves" "Honed Cleaver" "Infernal Blade" "Iolite Ring" "Malign Fangs" "Maltreatment Axe" "Marble Amulet" "Potentiality Rod" "Psychotic Axe" "Reciprocation Staff" "Shadow Fangs" "Solarine Bow" "Spiked Gloves" "Steel Ring" "Stygian Vise" "Transformer Staff" "Two-Toned Boots" "Void Fangs"
+	BaseType "Anarchic Spiritblade" "Apex Cleaver" "Apothecary's Gloves" "Battery Staff" "Blessed Boots" "Blunt Force Condenser" "Boom Mace" "Capricious Spiritblade" "Cogwork Ring" "Crushing Force Magnifier" "Fickle Spiritblade" "Fingerless Silk Gloves" "Flashfire Blade" "Flickerflame Blade" "Foundry Bow" "Geodesic Ring" "Gripped Gloves" "Honed Cleaver" "Infernal Blade" "Iolite Ring" "Malign Fangs" "Maltreatment Axe" "Marble Amulet" "Potentiality Rod" "Psychotic Axe" "Reciprocation Staff" "Shadow Fangs" "Solarine Bow" "Spiked Gloves" "Steel Ring" "Stygian Vise" "Transformer Staff" "Two-Toned Boots" "Void Fangs"  "Ring" "Amulet" "Boots" "Gloves" "Helmet"  "Sash" "Belt"
 	SetFontSize 45
 	SetTextColor 50 130 165 255
 	SetBorderColor 50 130 165 255
@@ -529,7 +532,8 @@ Show # $type->rare->shaper $tier->t11
 	HasInfluence Shaper
 	ItemLevel >= 82
 	Rarity <= Rare
-	BaseType "Anarchic Spiritblade" "Apex Cleaver" "Apothecary's Gloves" "Banishing Blade" "Battery Staff" "Boom Mace" "Cogwork Ring" "Crack Mace" "Crystal Belt" "Eventuality Rod" "Fickle Spiritblade" "Fingerless Silk Gloves" "Flashfire Blade" "Flickerflame Blade" "Foundry Bow" "Harmonic Spirit Shield" "Honed Cleaver" "Infernal Blade" "Malign Fangs" "Opal Ring" "Pneumatic Dagger" "Potentiality Rod" "Pressurised Dagger" "Psychotic Axe" "Solarine Bow" "Steel Ring" "Stygian Vise" "Titanium Spirit Shield" "Vermillion Ring"
+	BaseType "Anarchic Spiritblade" "Apex Cleaver" "Apothecary's Gloves" "Banishing Blade" "Battery Staff" "Boom Mace" "Cogwork Ring" "Crack Mace" "Crystal Belt" "Eventuality Rod" "Fickle Spiritblade" "Fingerless Silk Gloves" "Flashfire Blade" "Flickerflame Blade" "Foundry Bow" "Harmonic Spirit Shield" "Honed Cleaver" "Infernal Blade" "Malign Fangs" "Opal Ring" "Pneumatic Dagger" "Potentiality Rod" "Pressurised Dagger" "Psychotic Axe" "Solarine Bow" "Steel Ring" "Stygian Vise" "Titanium Spirit Shield" "Vermillion Ring" "Ring" "Amulet" "Boots" "Gloves" "Helmet"  "Sash" "Belt"
+
 	SetFontSize 45
 	SetTextColor 50 130 165 255
 	SetBorderColor 50 130 165 255
@@ -598,7 +602,8 @@ Show # $type->rare->elder $tier->t11
 	HasInfluence Elder
 	ItemLevel >= 82
 	Rarity <= Rare
-	BaseType "Anarchic Spiritblade" "Apex Cleaver" "Apothecary's Gloves" "Banishing Blade" "Battery Staff" "Blessed Boots" "Bone Helmet" "Boom Mace" "Capacity Rod" "Capricious Spiritblade" "Crack Mace" "Eventuality Rod" "Flickerflame Blade" "Foundry Bow" "Hollowpoint Dagger" "Infernal Blade" "Malign Fangs" "Pneumatic Dagger" "Potentiality Rod" "Prismatic Ring" "Psychotic Axe" "Reciprocation Staff" "Solarine Bow" "Steel Ring" "Transformer Staff" "Two-Toned Boots" "Vermillion Ring" "Void Fangs"
+	BaseType "Anarchic Spiritblade" "Apex Cleaver" "Apothecary's Gloves" "Banishing Blade" "Battery Staff" "Blessed Boots" "Bone Helmet" "Boom Mace" "Capacity Rod" "Capricious Spiritblade" "Crack Mace" "Eventuality Rod" "Flickerflame Blade" "Foundry Bow" "Hollowpoint Dagger" "Infernal Blade" "Malign Fangs" "Pneumatic Dagger" "Potentiality Rod" "Prismatic Ring" "Psychotic Axe" "Reciprocation Staff" "Solarine Bow" "Steel Ring" "Transformer Staff" "Two-Toned Boots" "Vermillion Ring" "Void Fangs" "Ring" "Amulet" "Boots" "Gloves" "Helmet"  "Sash" "Belt"
+
 	SetFontSize 45
 	SetTextColor 50 130 165 255
 	SetBorderColor 50 130 165 255
@@ -2398,7 +2403,7 @@ Hide # %H3 $type->jewels->generic $tier->anymagic
 #	PlayEffect Blue
 #	MinimapIcon 2 Blue Diamond
 
-Hide # %H4 $type->socketslinks $tier->6sockets
+Show # %H4 $type->socketslinks $tier->6sockets
 	Sockets >= 6
 	Rarity <= Rare
 	SetFontSize 45
@@ -2722,19 +2727,19 @@ Hide # %H1 $type->endgamergb $tier->rgbmedium
 #   [1201] High quality assorted flasks
 #------------------------------------
 
-#Show # %D3 $type->endgameflasks $tier->highqualutility
-#	Quality >= 15
-#	AreaLevel >= 68
-#	AreaLevel <= 77
-#	Rarity <= Magic
-#	BaseType "Basalt Flask" "Diamond Flask" "Granite Flask" "Jade Flask" "Quartz Flask" "Quicksilver Flask" "Silver Flask" "Stibnite Flask" "Sulphur Flask"
-#	SetFontSize 45
-#	SetTextColor 50 200 125
-#	SetBorderColor 50 200 125
-#	SetBackgroundColor 25 100 75
-#	PlayAlertSound 3 300
-#	PlayEffect Grey
-#	MinimapIcon 2 Grey Circle
+Show # %D3 $type->endgameflasks $tier->highqualutility
+	Quality >= 15
+	AreaLevel >= 68
+	AreaLevel <= 77
+	Rarity <= Magic
+	BaseType "Basalt Flask" "Diamond Flask" "Granite Flask" "Jade Flask" "Quartz Flask" "Quicksilver Flask" "Silver Flask" "Stibnite Flask" "Sulphur Flask"
+	SetFontSize 45
+	SetTextColor 50 200 125
+	SetBorderColor 50 200 125
+	SetBackgroundColor 25 100 75
+	PlayAlertSound 3 300
+	PlayEffect Grey
+	MinimapIcon 2 Grey Circle
 
 #Show # %D2 $type->endgameflasks $tier->highquallifemana
 #	Quality >= 15
@@ -4480,7 +4485,7 @@ Show # $type->uniques->heist $tier->any
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Star
 
-Hide # %H4 $type->heist->contract $tier->handpicked
+Show # %H4 $type->heist->contract $tier->handpicked
 	Class "Contract"
 	BaseType "Contract: Bunker" "Contract: Laboratory" "Contract: Mansion" "Contract: Prohibited Library" "Contract: Records Office" "Contract: Repository" "Contract: Smuggler's Den" "Contract: Tunnels" "Contract: Underbelly"
 	SetFontSize 45
@@ -4614,7 +4619,7 @@ Show # %H5 $type->fragments $tier->t3
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Hexagon
 
-Hide # %HS3 $type->fragments $tier->t4
+Show # %HS3 $type->fragments $tier->t4
 	Class "Map Fragments"
 	BaseType "Divine Vessel" "Sacrifice at Dawn" "Sacrifice at Dusk" "Sacrifice at Midnight" "Sacrifice at Noon"
 	SetFontSize 45
@@ -4639,7 +4644,7 @@ Show # $type->fragments $tier->restex
 # !! Override 610 : "Stacked Currency"
 
 Show # $type->currency->stacked $tier->splinters_t1
-	StackSize >= 2
+	StackSize >= 1
 	Class "Currency"
 	BaseType "Splinter of Chayula" "Timeless Maraketh Splinter" "Timeless Templar Splinter"
 	SetFontSize 45
@@ -4672,7 +4677,7 @@ Hide # %H4 $type->currency->stacked $tier->shards
 	SetBackgroundColor 213 159 0 255
 
 Show # $type->currency->stacked $tier->orbs_chaos
-	StackSize >= 2
+	StackSize >= 1
 	Class "Currency"
 	BaseType "Awakened Sextant" "Chaos Orb" "Facetor's Lens" "Fertile Catalyst" "Gemcutter's Prism" "Harbinger's Orb" "Prime Sextant" "Prismatic Catalyst" "Ritual Splinter" "Stacked Deck" "Tempering Catalyst" "Vaal Orb"
 	SetFontSize 45
@@ -4684,7 +4689,7 @@ Show # $type->currency->stacked $tier->orbs_chaos
 	MinimapIcon 1 Yellow Circle
 
 Show # $type->currency->stacked $tier->orbs_alchemy
-	StackSize >= 2
+	StackSize >= 1
 	Class "Currency"
 	BaseType "Abrasive Catalyst" "Cartographer's Chisel" "Imbued Catalyst" "Intrinsic Catalyst" "Orb of Alchemy" "Orb of Alteration" "Orb of Binding" "Orb of Fusing" "Orb of Horizons" "Orb of Regret" "Orb of Scouring" "Regal Orb" "Turbulent Catalyst"
 	SetFontSize 45
@@ -4696,13 +4701,25 @@ Show # $type->currency->stacked $tier->orbs_alchemy
 	MinimapIcon 2 White Circle
 
 Show # %H5 $type->currency->stacked $tier->orbs_alt
-	StackSize >= 3
+	StackSize >= 1
 	Class "Currency"
 	BaseType "Blessed Orb" "Chromatic Orb" "Glassblower's Bauble" "Jeweller's Orb" "Orb of Augmentation" "Orb of Chance" "Silver Coin" "Simple Sextant"
+	SetFontSize 35
+	SetTextColor 0 0 0 255
+	SetBorderColor 0 0 0 255
+	SetBackgroundColor 0 189 0 255
+	PlayAlertSound 2 300
+	PlayEffect White
+	MinimapIcon 2 Green Circle
+
+Show # %H5 $type->currency->stacked $tier->orbs_transmute
+	StackSize >= 1
+	Class "Currency"
+	BaseType "Blacksmith's Whetstone"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
-	SetBackgroundColor 213 159 0 255
+	SetBackgroundColor 0 129 0 255
 	PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
@@ -4710,14 +4727,26 @@ Show # %H5 $type->currency->stacked $tier->orbs_alt
 Show # %H5 $type->currency->stacked $tier->orbs_transmute
 	StackSize >= 3
 	Class "Currency"
-	BaseType "Blacksmith's Whetstone" "Orb of Transmutation"
+	BaseType "Orb of Transmutation"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
-	SetBackgroundColor 213 159 0 255
+	SetBackgroundColor 0 189 0 255
 	PlayAlertSound 2 300
 	PlayEffect White
 	MinimapIcon 2 White Circle
+
+Show # $type->currency->stacked $tier->orbs_wisdom
+	StackSize >= 1
+	Class "Currency"
+	BaseType "Portal Scroll"
+	SetFontSize 35
+	SetTextColor 200 200 200 255
+	SetBorderColor 0 0 0 255
+	SetBackgroundColor 0 0 100 255
+	PlayAlertSound 2 300
+	PlayEffect White
+	#MinimapIcon 2 Green Circle
 
 Show # $type->currency->stacked $tier->orbs_wisdom
 	StackSize >= 4
@@ -4775,7 +4804,7 @@ Hide # %H2 $type->currency->peranduscoins $tier->t4
 #------------------------------------
 
 Show # $type->currency->heist $tier->highstack
-	StackSize >= 150
+	StackSize >= 1
 	Class "Currency"
 	BaseType == "Rogue's Marker"
 	SetFontSize 45

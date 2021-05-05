@@ -1,0 +1,8 @@
+ring hunter|elder|shaper|crusader|redeemer|warlord
+amulet hunter|elder|shaper|crusader|redeemer|warlord
+boots hunter|elder|shaper|crusader|redeemer|warlord
+gloves hunter|elder|shaper|crusader|redeemer|warlord
+helmet hunter|elder|shaper|crusader|redeemer|warlord
+belt hunter|elder|shaper|crusader|redeemer|warlord
+sash hunter|elder|shaper|crusader|redeemer|warlord
+reflect
