@@ -2262,16 +2262,16 @@ Show # %D5 $type->jewels->cluster $tier->highmedium
 	PlayEffect White
 	MinimapIcon 2 White Pentagon
 
-#Show # %D4 $type->jewels->cluster $tier->medium
-#	Rarity <= Rare
-#	BaseType "Medium Cluster Jewel"
-#	SetFontSize 45
-#	SetTextColor 150 0 255 255
-#	SetBorderColor 150 0 255 255
-#	SetBackgroundColor 34 0 67 255
-#	PlayAlertSound 2 300
-#	PlayEffect Grey Temp
-#	MinimapIcon 2 Grey Pentagon
+Show # %D4 $type->jewels->cluster $tier->medium
+	Rarity <= Rare
+	BaseType "Medium Cluster Jewel"
+	SetFontSize 45
+	SetTextColor 150 0 255 255
+	SetBorderColor 150 0 255 255
+	SetBackgroundColor 34 0 67 255
+	PlayAlertSound 2 300
+	PlayEffect Grey Temp
+	MinimapIcon 2 Grey Pentagon
 
 Show # %D5 $type->jewels->cluster $tier->highsmall
 	ItemLevel >= 84
@@ -2285,16 +2285,16 @@ Show # %D5 $type->jewels->cluster $tier->highsmall
 	PlayEffect White
 	MinimapIcon 2 White Pentagon
 
-#Show # %D4 $type->jewels->cluster $tier->small
-#	Rarity <= Rare
-#	BaseType "Small Cluster Jewel"
-#	SetFontSize 45
-#	SetTextColor 150 0 255 255
-#	SetBorderColor 150 0 255 255
-#	SetBackgroundColor 34 0 67 255
-#	PlayAlertSound 2 300
-#	PlayEffect Grey Temp
-#	MinimapIcon 2 Grey Pentagon
+Show # %D4 $type->jewels->cluster $tier->small
+	Rarity <= Rare
+	BaseType "Small Cluster Jewel"
+	SetFontSize 45
+	SetTextColor 150 0 255 255
+	SetBorderColor 150 0 255 255
+	SetBackgroundColor 34 0 67 255
+	PlayAlertSound 2 300
+	PlayEffect Grey Temp
+	MinimapIcon 2 Grey Pentagon
 
 #------------------------------------
 #   [0803] Abyss Jewels
@@ -2318,7 +2318,7 @@ Hide # %HS3 $type->jewels->abyss $tier->highmagic
 	SetBorderColor 240 100 0 255
 	SetBackgroundColor 0 20 40 255
 
-Hide # %HS3 $type->jewels->abyss $tier->anyrare
+Show # %HS3 $type->jewels->abyss $tier->anyrare
 	Rarity Rare
 	Class "Abyss Jewel"
 	SetFontSize 45
@@ -2338,7 +2338,7 @@ Hide # %HS2 $type->jewels->abyss $tier->anymagic
 #   [0804] Generic Jewels
 #------------------------------------
 
-Hide # %HS3 $type->jewels->generic $tier->anyrare
+Show # %HS3 $type->jewels->generic $tier->anyrare
 	Rarity Rare
 	Class "Jewel"
 	BaseType "Cobalt Jewel" "Crimson Jewel" "Viridian Jewel"
